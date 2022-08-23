@@ -1,5 +1,5 @@
 # DataScraping
-Scraping option chain data using json, Selenium in Python into Google Sheets
+Scraping option chain data using google api, Selenium in Python into Google Sheets
 
 Pre requisites: ShareKhan account
 Find the version of your web browser and download the webdriver extention. I used Google Chrome so you will have to make the changes if yours is different.
